@@ -28,6 +28,7 @@ header {
 }
 #details {
   display: block;
+  background-color: red;
 }
 .float {
   float: left;
