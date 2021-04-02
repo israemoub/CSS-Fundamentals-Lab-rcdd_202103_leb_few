@@ -31,6 +31,6 @@ header {
 }
 .float {
   float: left;
-  padding: 0;
+  padding: 25px;
   margin: 0;
 }
