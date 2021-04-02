@@ -32,7 +32,7 @@ header {
 }
 .float {
   float: left;
-  padding: 106px;
+  padding: 16px;
   background-color: red;
   margin-bottom: 1.5%;
 }
