@@ -27,5 +27,5 @@ header {
   margin-left: auto;
 }
 #details {
-  
+  display: block;
 }
