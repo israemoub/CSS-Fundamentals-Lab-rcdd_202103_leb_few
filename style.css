@@ -16,3 +16,7 @@ header {
   padding-right: 10px;
   background-color: gray;
 }
+#figcaption {
+  size: 18px;
+  text-align: center;
+}
