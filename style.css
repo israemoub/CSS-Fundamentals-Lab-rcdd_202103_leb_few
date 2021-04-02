@@ -28,6 +28,7 @@ header {
 }
 #details {
   display: block;
+  width: 25%;
 }
 .float {
   float: left;
